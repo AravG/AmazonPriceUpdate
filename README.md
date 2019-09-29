@@ -3,7 +3,7 @@ An python bot to check the price of an particular product and raise an alert mai
 
 Required Modules:
 
-1.Python 2.7.x
+1.Python 3.7.x
 
 2.requests - pip install requests
 
